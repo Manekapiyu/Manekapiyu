@@ -10,7 +10,7 @@ I'm a passionate Full-Stack Developer with hands-on experience in building moder
 ### 🚀 Tech Stack
 
 **Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react) 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
@@ -29,7 +29,22 @@ I'm a passionate Full-Stack Developer with hands-on experience in building moder
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manekapiyu&layout=compact&theme=tokyonight)
+### 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+---
+
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Manekapiyu&theme=radical)
+
+---
+
+### 📫 Contact Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/maneka-piyumawali)  
+[![Email](https://img.shields.io/badge/Email-Send%20a%20Mail-red?logo=gmail)](mailto:manekapiyumawali2099.com) 
+
+
 
 
 
