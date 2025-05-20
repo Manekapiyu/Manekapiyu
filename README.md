@@ -1,4 +1,34 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Maneka Piyumawali👋</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DineshPriyanthaGH&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
+### 💻 About Me
+🎓 I'm currently pursuing my BSc (Hons) in Computing and Information Systems at **Sabaragamuwa University of Sri Lanka**. I'm a **Full-Stack Developer** passionate about building efficient, scalable, and user-friendly web and mobile applications. I specialize in **React.js**, **Flutter** and **MongoDB**, and I enjoy turning complex problems into simple, elegant solutions.
+🌱 I’m continuously learning and exploring modern technologies to improve my skills and contribute to impactful projects.
+
+### 🚀 Tech Stack
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react) 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Database**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 <!--
 **Manekapiyu/Manekapiyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
