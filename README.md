@@ -29,10 +29,6 @@ I'm a passionate Full-Stack Developer with hands-on experience in building moder
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-
 ---
 
 ### 🏆 GitHub Trophies
@@ -41,8 +37,8 @@ I'm a passionate Full-Stack Developer with hands-on experience in building moder
 ---
 
 ### 📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/maneka-piyumawali)  
-[![Email](https://img.shields.io/badge/Email-Send%20a%20Mail-red?logo=gmail)](mailto:manekapiyumawali2099.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/maneka-piyumawali)  
+[![Email](https://img.shields.io/badge/Email-Send%20a%20Mail-red?logo=gmail)](mailto:your.manekapiyumawali2099.com) 
 
 
 
