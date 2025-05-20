@@ -4,13 +4,13 @@
 </p>
 
 ### 💻 About Me
-🎓 I'm currently pursuing my BSc (Hons) in Computing and Information Systems at **Sabaragamuwa University of Sri Lanka**. I'm a **Full-Stack Developer** passionate about building efficient, scalable, and user-friendly web and mobile applications. I specialize in **React.js**, **Flutter** and **MongoDB**, and I enjoy turning complex problems into simple, elegant solutions.
-🌱 I’m continuously learning and exploring modern technologies to improve my skills and contribute to impactful projects.
+I'm a passionate Full-Stack Developer with hands-on experience in building modern, responsive, and scalable web and mobile applications.  
+🎓 Currently pursuing my BSc (Hons) in Computing and Information Systems at Sabaragamuwa University of Sri Lanka, where I'm focused on deepening my knowledge in software development and system design.
 
 ### 🚀 Tech Stack
 
 **Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react) 
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
@@ -28,6 +28,11 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manekapiyu&layout=compact&theme=tokyonight)
+
+
+
 
 
 <!--
