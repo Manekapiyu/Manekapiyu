@@ -36,10 +36,6 @@ I'm a passionate Full-Stack Developer with hands-on experience in building moder
 
 ---
 
-### 📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/maneka-piyumawali)  
-[![Email](https://img.shields.io/badge/Email-Send%20a%20Mail-red?logo=gmail)](mailto:your.manekapiyumawali2099.com) 
-
 
 
 
