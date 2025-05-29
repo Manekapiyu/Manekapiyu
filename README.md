@@ -3,9 +3,9 @@
   <img src="https://komarev.com/ghpvc/?username=DineshPriyanthaGH&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
-### 💻 About Me
+💻 About Me  
 I'm a passionate Full-Stack Developer with hands-on experience in building modern, responsive, and scalable web and mobile applications.  
-🎓 Currently pursuing my BSc (Hons) in Computing and Information Systems at Sabaragamuwa University of Sri Lanka, where I'm focused on deepening my knowledge in software development and system design.
+🎓 Currently pursuing my BSc (Hons) in Computing and Information Systems at [Sabaragamuwa University of Sri Lanka](https://sab.ac.lk/), where I'm focused on deepening my knowledge in software development and system design.
 
 ### 🚀 Tech Stack
 
