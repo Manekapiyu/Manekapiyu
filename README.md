@@ -35,9 +35,7 @@ I'm a passionate Full-Stack Developer with hands-on experience in building moder
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Manekapiyu&theme=radical)
 
 ---
-
-
-
+---
 
 
 
