@@ -1,16 +1,55 @@
-<h1 align="center">Hi, I'm Maneka Piyumawali 👋</h1>
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px">
+</p>
+
+<h1 align="center">Hi 👋, I'm Maneka Piyumawali</h1>
+<h3 align="center">Passionate Full-Stack Developer | Exploring the Future of Technology</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Manekapiyu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
 
-💻 **About Me**
+- 💻 I’m a **Full-Stack Developer** passionate about building modern, responsive, and scalable web/mobile apps  
+- 🎓 Pursuing **BSc (Hons) in Computing and Information Systems** at **Sabaragamuwa University of Sri Lanka**  
+- 📫 Reach me at: **manekapiyumawali2@gmail.com**  
+- 🌱 Currently learning **Next.js**, **Flutter**, and **MongoDB**  
+- ⚡ Fun fact: I enjoy building side projects that solve **real-world problems**  
 
-I'm a passionate **Full-Stack Developer** with hands-on experience in building modern, responsive, and scalable web and mobile applications.
+</td>
+<td width="50%" align="center">
 
-🎓 Currently pursuing my **BSc (Hons) in Computing and Information Systems** at [Sabaragamuwa University of Sri Lanka](https://sab.ac.lk/), where I focus on deepening my knowledge in software development and system design.
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+</td>
+</tr>
+</table>
+
+---
+
+<h3 align="center">My Statistics </h3>
+
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Manekapiyu&theme=dark&show_icons=true&count_private=true" />
+  <br><br>
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Manekapiyu's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Manekapiyu&theme=dark&hide_border=false" /> 
+
+</td>
+<td width="50%" align="center">
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manekapiyu&theme=dark&layout=compact&hide_border=false&langs_count=10" />
+
+</td>
+</tr>
+</table>
+
 
 ---
 
@@ -40,6 +79,34 @@ I'm a passionate **Full-Stack Developer** with hands-on experience in building m
 
 ### 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Manekapiyu&theme=radical)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Manekapiyu&theme=radical" />
+</p>
 
 ---
+
+
+
+### 📱 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/manekapiyumawali" target="blank">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" width="50" />
+  </a>
+  <a href="https://www.instagram.com/maneka.piyu" target="blank">
+    <img src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="Instagram" width="50" />
+  </a>
+  <a href="mailto:manekapiyumawali2@gmail.com" target="blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="50" />
+  </a>
+</p>
+
+---
+
+### ☕ Support Me
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/manekapiyu">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+  </a>
+</p>
