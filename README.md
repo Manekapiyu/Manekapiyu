@@ -23,23 +23,9 @@
   <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
   </tr>
   </tr>
-</table> 
----
-
-<h3 align="center" style="font-weight: 700; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #ff4081;">
-  🏆 GitHub Trophies
-</h3>
-
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=Manekapiyu&theme=radical&no-bg=true&margin-w=15" 
-    alt="GitHub Trophies" 
-  />
-</p>
+</table>
 
 ---
-
-
 
 <h3 align="center">My Statistics:</h3>
 <p align="center">
@@ -61,9 +47,8 @@
   </table>
 </p>
 
-
-
 ---
+
 <h3 align="center">Connect with Me</h3>
 
 <p align="center" style="margin-top: 10px;">
