@@ -14,11 +14,11 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 💻 I’m a **Full-Stack Developer** passionate about building modern, responsive, and scalable web/mobile apps  
-- 🎓 Pursuing **BSc (Hons) in Computing and Information Systems** at **Sabaragamuwa University of Sri Lanka**  
-- 📫 Reach me at: **manekapiyumawali2@gmail.com**  
-- 🌱 Currently learning **Next.js**, **Flutter**, and **MongoDB**  
-- ⚡ Fun fact: I enjoy building side projects that solve **real-world problems**  
+-💻 Full-Stack Developer focused on modern, scalable web/mobile apps
+-🎓 BSc (Hons) Computing – Sabaragamuwa University of Sri Lanka
+-📫 manekapiyumawali2@gmail.com
+-🌱 Learning Next.js, Flutter & MongoDB
+-⚡ Love building real-world solutions
 
 </td>
 <td width="50%" align="center">
