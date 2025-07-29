@@ -12,11 +12,11 @@
   <tr border="none">
     <td width="50%" align="left" style="font-size: 16px; line-height: 1.8;">
       <ul>
-        <li>💻 Full-Stack Developer focused on modern, scalable web/mobile apps</li>
-        <li>🎓 BSc (Hons) Computing – Sabaragamuwa University of Sri Lanka</li>
-        <li>📫 <a href="mailto:manekapiyumawali2@gmail.com">manekapiyumawali2@gmail.com</a></li>
-        <li>🌱 Learning Nodejs & MongoDB</li>
-        <li>⚡ Love building real-world solutions</li>
+        <li> Full-Stack Developer focused on modern, scalable web/mobile apps</li>
+        <li> BSc (Hons) Computing – Sabaragamuwa University of Sri Lanka</li>
+        <li><a href="mailto:manekapiyumawali2@gmail.com">manekapiyumawali2@gmail.com</a></li>
+        <li>Learning Nodejs & MongoDB</li>
+        <li> Love building real-world solutions</li>
       </ul>
     </td>
   <td width="50%" align="center">
