@@ -4,6 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Maneka Piyumawali</h1>
 <h3 align="center">Passionate Full-Stack Developer | Exploring the Future of Technology</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=manekapiyu&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 
 ---
 
