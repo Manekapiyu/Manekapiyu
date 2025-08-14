@@ -40,11 +40,10 @@
       <td width="50%" align="center">
         <img 
   align="center" 
-  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Manekapiyu&theme=dark&hide_border=false&langs_count=10" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manekapiyu&theme=dark&hide_border=false&langs_count=20&count_private=true" 
   style="max-width: 250px;" 
 />
-      </td>
-    </tr>
+
   </table>
 </p>
 
