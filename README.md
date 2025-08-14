@@ -14,7 +14,7 @@
       <ul>
         <li> Full-Stack Developer focused on modern, scalable web/mobile apps</li>
         <li> BSc (Hons) Computing – Sabaragamuwa University of Sri Lanka</li>
-        <li><a href="mailto:manekapiyumawali2@gmail.com">manekapiyumawali2@gmail.com</a></li>
+        <li><a href="mailto:manekapiyumawali2099@gmail.com">manekapiyumawali2099@gmail.com</a></li>
         <li>Learning Nodejs & MongoDB</li>
         <li> Love building real-world solutions</li>
       </ul>
