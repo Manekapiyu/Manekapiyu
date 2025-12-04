@@ -33,16 +33,15 @@
   <table align="center" border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td width="50%" align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Manekapiyu&theme=dark&show_icons=true&count_private=true" />
+        <img align="center" 
+     src="https://github-readme-stats-rickstaa.vercel.app/api?username=Manekapiyu&theme=dark&show_icons=true&count_private=true&cache_seconds=7200" />
         <br><br>
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Manekapiyu's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Manekapiyu&theme=dark&hide_border=false" />
       </td>
       <td width="50%" align="center">
-        <img 
-  align="center" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manekapiyu&theme=dark&hide_border=false&langs_count=20&count_private=true" 
-  style="max-width: 250px;" 
-/>
+       <img align="center"
+     src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=Manekapiyu&theme=dark&hide_border=false&langs_count=10&count_private=true&cache_seconds=7200"
+     style="max-width: 250px;" />
 
   </table>
 </p>
