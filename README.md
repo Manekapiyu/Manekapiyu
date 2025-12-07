@@ -4,8 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Maneka Piyumawali</h1>
 <h3 align="center">Passionate Full-Stack Developer | Exploring the Future of Technology</h3>
-<p align="center"> <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/master/demo.gif
-" alt="scar1109" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/master/demo.gif" alt="scar1109" /> </p>
 
 ---
 
