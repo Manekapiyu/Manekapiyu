@@ -3,8 +3,10 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Maneka Piyumawali</h1>
-<h3 align="center">Passionate Full-Stack Developer | Exploring the Future of Technology</h3>
-<p align="center"> <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/master/demo.gif" alt="scar1109" /> </p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Passionate+Full-Stack+Developer;Exploring+the+Future+of+Technology" alt="Typing SVG" />
+</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Manekapiyu&label=Profile%20views&color=0e75b6&style=flat"  /> </p>
 
 ---
 
