@@ -3,9 +3,9 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Maneka Piyumawali</h1>
-<h3 align="center">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Passionate+Full-Stack+Developer;Exploring+the+Future+of+Technology" alt="Typing SVG" />
-</h3>
+</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Manekapiyu&label=Profile%20views&color=0e75b6&style=flat"  /> </p>
 
 ---
@@ -23,7 +23,8 @@
     </td>
   <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXB4M25iNDk1dzZ0NXM2NmkzdmpmbHo4aDdvc20zamw3dGozNTR2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif">
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
   </tr>
   </tr>
 </table>
