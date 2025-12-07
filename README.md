@@ -4,7 +4,8 @@
 
 <h1 align="center">Hi 👋, I'm Maneka Piyumawali</h1>
 <h3 align="center">Passionate Full-Stack Developer | Exploring the Future of Technology</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=manekapiyu&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/master/demo.gif
+" alt="scar1109" /> </p>
 
 ---
 
@@ -21,7 +22,7 @@
     </td>
   <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+  <img align="center" alt="Coding" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXB4M25iNDk1dzZ0NXM2NmkzdmpmbHo4aDdvc20zamw3dGozNTR2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif">
   </tr>
   </tr>
 </table>
