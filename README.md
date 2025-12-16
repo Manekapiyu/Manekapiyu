@@ -31,30 +31,27 @@
 
 ---
 
-<h3 align="center">My Statistics:</h3>
-<p align="center">
-  <table align="center" border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td width="50%" align="center">
-        <img align="center" 
-     src="https://github-readme-stats-rickstaa.vercel.app/api?username=Manekapiyu&theme=dark&show_icons=true&count_private=true&cache_seconds=7200" />
-        <br><br>
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Manekapiyu's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Manekapiyu&theme=dark&hide_border=false" />
-      </td>
-      <td width="50%" align="center">
-       <img align="center"
-     src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=Manekapiyu&theme=dark&hide_border=false&langs_count=10&count_private=true&cache_seconds=7200"
-     style="max-width: 250px;" />
+<h3 align="center">My Statistics</h3>
 
-  </table>
-</p>
-
-
-</tr>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-rickstaa.vercel.app/api?username=Manekapiyu&theme=dark&show_icons=true&count_private=true" />
+      <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manekapiyu&theme=dark&cache_bust=1" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=Manekapiyu&theme=dark&langs_count=20&count_private=true" />
+    </td>
+  </tr>
 </table>
+
+<br>
+
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img alt="Maneka's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Manekapiyu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </a>
+
 
 ---
 
